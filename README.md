@@ -1,1 +1,0 @@
-# aqtobe_olympiada
